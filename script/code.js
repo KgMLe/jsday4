@@ -18,3 +18,4 @@ console.log(person2);
 let people =[{name:'Kgodisho',age: 24, city:'Cape Town'}, {name:'Nkgudisheng', age:28, city:'Midrand'}]
 
 console.log(people);
+
